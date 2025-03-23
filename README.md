@@ -5,10 +5,10 @@
 
 ### 🚀 About Me
 
-- 🎓 Systems Engineering Student
 - 💼 Currently working as a **Fullstack Web Developer** at my city's municipality
 - 🌱 Learning and improving **Spring Boot** to strengthen my backend skills
 - 🔥 Focused on becoming proficient in **React + Spring Boot**
+- - 🎓 Systems Engineering Student
 - 🐱🎮 Huge fan of cats and video games!
 
 ---
